@@ -1,1 +1,1 @@
-# Sebuah CV online untuk melamar pekerjaan
+# web based cv
